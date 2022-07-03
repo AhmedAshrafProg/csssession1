@@ -1,0 +1,54 @@
+
+.maindiv h1{
+    color:rgb(56, 51, 224);
+    display:inline-block;
+}
+.maindiv{
+
+    width:980px;
+height:150px;
+border: 1px solid black;
+}
+
+.navbar{
+
+    border: 1px solid black;
+    width:980px;
+}
+
+.navbar h3{
+    margin-left:20px;
+}
+.mainbody{
+    
+    width:980px;
+    height:340px;
+    border: 1px solid black;
+    display:flex;
+    flex-wrap: nowrap;
+    justify-content:space-evenly;
+    
+}
+
+.parag{
+    width:600px;
+    height:300px;
+    border: 1px solid black;
+    margin-top:20px;
+}
+
+
+
+.artpic img{
+width:300px;
+margin-top:20px;
+}
+.copyright{
+    height:40px;
+    width:980;
+    border: 1px solid black;
+}
+.copyright h3{
+margin-top:7px;
+margin-left:20px;
+}
